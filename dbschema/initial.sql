@@ -1,3 +1,4 @@
+
 CREATE DATABASE Organisationdb;
 
 CREATE TABLE Persons (
@@ -7,3 +8,6 @@ CREATE TABLE Persons (
     Address varchar(255),
     City varchar(255) 
 );
+
+#This is just a comment
+
